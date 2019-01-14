@@ -15,3 +15,7 @@ Creates a word cloud in a given shape given a .txt file and .png file.
 #### Book of Trump Predictions.ipynb	
 Deep learning models which combine the new Trump tweets and Bible verses to create verses from the "Book of Trump" (you feed
 it one word and it produces the verse). 
+
+#### pres_v8.pptx
+
+PowerPoint which was presented to the applied machine learning class as well as to the heads of various local data science corporations. 
